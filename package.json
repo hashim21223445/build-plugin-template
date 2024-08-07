@@ -58,7 +58,7 @@
     "omit.js": "^2.0.2",
     "prettier": "^2.1.2",
     "release-it": "^15.0.0",
-    "semver": "^7.3.2",
+    "semver": "^7.6.3",
     "spdx-license-list": "^6.3.0",
     "strip-ansi": "^7.0.0",
     "username": "^6.0.0",
